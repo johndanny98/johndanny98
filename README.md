@@ -20,5 +20,11 @@ I am John Daniel, currently pursuing my Btech   in computer science from [N R I 
 <br/>
 
 
+    
+<img 
+   src="https://github-readme-stats.vercel.app/api?username=John-Daniel&show_icons=true&theme=tokyonight" 
+/>
+
+
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=John-Daniel.johndanny98)
