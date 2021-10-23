@@ -8,6 +8,14 @@ I am John Daniel, currently pursuing my Btech   in computer science from [N R I 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ### Social Media 
-![linkedin]()
-![twitter]()
+<a href="https://www.linkedin.com/in/john-daniel-20a6121a0/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://twitter.com/John_daniel123">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="mailto:johndanny0308@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<br/>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=John-Daniel.johndanny98)
