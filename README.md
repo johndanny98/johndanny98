@@ -18,4 +18,7 @@ I am John Daniel, currently pursuing my Btech   in computer science from [N R I 
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <br/>
+
+
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=John-Daniel.johndanny98)
